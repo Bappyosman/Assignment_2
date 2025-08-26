@@ -239,3 +239,32 @@ nav {
     order: -1;
   }
 }
+
+
+/* Latest Deals Section */
+.latest-deals {
+  max-width: 1140px;
+  margin: 50px auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.latest-deals h2 {
+  font-size: 32px;
+  margin-bottom: 15px;
+}
+
+.latest-deals h2 span {
+  color: #ff6600; /* Orange color for 'Latest' */
+}
+
+.latest-deals p {
+  max-width: 888px;
+  margin: 0 auto;
+  color: #555;
+  line-height: 1.6;
+}
+
+
+
+
